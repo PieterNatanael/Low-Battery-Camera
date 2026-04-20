@@ -97,7 +97,6 @@ constitutes acceptance of the updated policy.
 
 10. Contact
 
-Questions about this privacy policy?
 
 Developer: Pieter Yoshua Natanael
 GitHub:https://github.com/PieterNatanael/Low-Battery-Camera
